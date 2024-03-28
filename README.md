@@ -1,4 +1,4 @@
-# Neural-Networks
+# Week 1: Neural-Networks
 
 <img width="585" alt="Screenshot 2024-03-25 at 2 22 52 PM" src="https://github.com/ColleenJung/Neural-Networks/assets/119357849/051d6319-5db0-4b76-ac16-a89f90e1a69c">
 
